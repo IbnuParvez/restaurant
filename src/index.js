@@ -1,0 +1,2 @@
+import bgImage from "./bg.png";
+import homePage from "./home.js";
