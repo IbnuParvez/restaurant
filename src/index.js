@@ -7,4 +7,4 @@ import contactPage from "./contact.js";
 const homeBtn = document.getElementById("home-button");
 const menuBtn = document.getElementById("menu-button");
 const contactBtn = document.getElementById("contact-button");
-const content = document.getElementById("content"); // Now 'content' can be used!
+const content = document.getElementById("content");
